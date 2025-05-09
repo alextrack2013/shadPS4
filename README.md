@@ -32,6 +32,18 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <img src="https://github.com/shadps4-emu/shadPS4/blob/main/documents/Screenshots/4.png" width="400">
 </p>
 
+# Disclaimer
+
+fPKG support was restored with the removal of the following commits:
+
+https://github.com/shadps4-emu/shadPS4/commit/be22674f8c1ac84e1cff89947ff4a6753070f21b
+
+https://github.com/shadps4-emu/shadPS4/commit/31e1d4f839118b59398ca6f871929fc0e286e13c
+
+https://github.com/shadps4-emu/shadPS4/commit/be7d646e8314ccf1f125818f3589b78d8e3262eb
+
+https://github.com/shadps4-emu/shadPS4/commit/faae1218fa0b590e4e3f55b7d41780eec8c281f9
+
 # General information
 
 **shadPS4** is an early **PlayStation 4** emulator for **Windows**, **Linux** and **macOS** written in C++.
